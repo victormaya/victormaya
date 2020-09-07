@@ -2,7 +2,7 @@
 
 <p>
   🎓 Bacharel em Ciência e Tecnologia - UFMA;<br/>
-  📚 Acadêmico de Engenharia da cComputação - UFMA
+  📚 Acadêmico de Engenharia da Computação - UFMA
 </p>
 
 <p>
