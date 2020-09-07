@@ -1,7 +1,7 @@
 <img src="./banner.png" alt="Banner IuriCode" border="0" width="100%">
 
 <p>
-  🎓 Bacharel em Ciência e Tecnologia - UFMA;
+  🎓 Bacharel em Ciência e Tecnologia - UFMA;<br/>
   📚 Acadêmico de Engenharia da cComputação - UFMA
 </p>
 
