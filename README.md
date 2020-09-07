@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Banner IuriCode" border="0" width="50%">
+<img src="https://github.com/victormaya/victormaya/blob/master/banner.png?raw=true" alt="Banner" border="0" width="50%">
 
 <p>
   🎓 Bacharel em Ciência e Tecnologia - UFMA;<br/>
@@ -13,7 +13,7 @@
 <a href="victor.maya42@gmail.com" alt="Contributors">
 <img src="https://img.shields.io/badge/-victor.maya42@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=victor.maya42@gmail.com" /></a>
   
-<a href="https://www.linkedin.com/in/iuricode" alt="Contributors">
+<a href="https://www.linkedin.com/in/victor-maya-nascimento-almeida-19329b188/" alt="Contributors">
 <img src="https://img.shields.io/badge/-Victor%20Maya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-maya-nascimento-almeida-19329b188/" /></a>
   
 <a href="https://twitter.com/v1ctormaya" alt="">
