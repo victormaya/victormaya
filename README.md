@@ -9,16 +9,10 @@
   💻 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, MaterialUI, ReactJS.</strong>
 </p>
 
-<p>
-<a href="victor.maya42@gmail.com" alt="Contributors">
-<img src="https://img.shields.io/badge/-victor.maya42@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=victor.maya42@gmail.com" /></a>
-  
-<a href="https://www.linkedin.com/in/victor-maya-nascimento-almeida-19329b188/" alt="Contributors">
-<img src="https://img.shields.io/badge/-Victor%20Maya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-maya-nascimento-almeida-19329b188/" /></a>
-  
-<a href="https://twitter.com/v1ctormaya" alt="">
-<img src="https://img.shields.io/twitter/url?label=Victor%20Maya&style=social&url=https%3A%2F%2Ftwitter.com%2Fv1ctormaya" /></a>
- </p>
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victormaya)](https://github.com/victormaya)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-maya-nascimento-almeida-19329b188/)](https://www.linkedin.com/in/victor-maya-nascimento-almeida-19329b188/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5599982756405&text=Olá!)](https://api.whatsapp.com/send?phone=5599982756405&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victor.maya42@gmail.com)](mailto:victor.maya42@gmail.com)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=victormaya&show_icons=true)
  
