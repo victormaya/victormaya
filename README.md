@@ -1,4 +1,4 @@
-<img src="./banner.png" alt="Banner IuriCode" border="0" width="100%">
+<img src="./banner.png" alt="Banner IuriCode" border="0" width="50%">
 
 <p>
   🎓 Bacharel em Ciência e Tecnologia - UFMA;<br/>
