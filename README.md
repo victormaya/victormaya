@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  💻 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, MaterialUI, ReactJS.</strong>
+  💻 Skills: <strong>HTML5, CSS3, JavaScript, Bootstrap, MaterialUI, ReactJS, WordPress, Figma, AdobeXD.</strong>
 </p>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/victormaya)](https://github.com/victormaya)
