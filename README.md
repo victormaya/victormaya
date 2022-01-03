@@ -1,5 +1,3 @@
-<img src="https://github.com/victormaya/victormaya/blob/master/banner.png?raw=true" alt="Banner" border="0" width="50%">
-
 <p>
   🎓 Bacharel em Ciência e Tecnologia - UFMA;<br/>
   📚 Acadêmico de Engenharia da Computação - UFMA
