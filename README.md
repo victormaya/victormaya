@@ -1,4 +1,5 @@
 <p>
+  👨‍💻 Front-end developer na Samba Digital 🐝
   🎓 Bacharel em Ciência e Tecnologia - UFMA;<br/>
   📚 Acadêmico de Engenharia da Computação - UFMA
 </p>
