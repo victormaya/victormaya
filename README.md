@@ -7,7 +7,7 @@ Front-end developer
 Bachelor of Science and Technology - UFMA
 
 * 🌍  I'm based in Maranhão, Brasil
-* 🖥️  See my portfolio at [victormaya.surge.sh](http://victormayadev.com)
+* 🖥️  See my portfolio at [http://victormayadev.com](http://victormayadev.com)
 * ✉️  You can contact me at [victor.maya42@gmail.com](mailto:victor.maya42@gmail.com)
 * 🚀  I'm currently working on [Samba Digital](https://sambadigital.sambatech.com/)
 * 🧠  I'm learning StoryBook
